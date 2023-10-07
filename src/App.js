@@ -11,7 +11,7 @@ function App() {
    }
    return(
     <div className="app">
-      count is {count}
+      count is {count}.
       <button onClick={()=>handlepress()}></button>
 
     </div>
