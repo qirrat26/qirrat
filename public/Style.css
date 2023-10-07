@@ -1,0 +1,22 @@
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          /* background-color: yellow; */
+}
+.main{
+          border: 1px solid black;
+          width: 100%;
+          display: flex ;
+          height: 100vh;
+}
+.half1{
+          border: 1px solid black;
+          height: 100vh;
+          width: 50%;
+}
+.half2{
+          border: 1px solid black;
+          height: 100vh;
+          width: 50%;
+}
